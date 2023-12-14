@@ -35,7 +35,7 @@ Check out my [Progress Log](Progress%20Log/Yashwanth/ProgressLog.md) to see my d
 2. **Clone the Forked Repository:**
    - Clone the repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/Team-Projects-2024/Strivers-SDE-sheet-Daily.git
+     git clone https://github.com/your-username/Project-Name.git
      ```
 
 3. **Create a Branch:**
