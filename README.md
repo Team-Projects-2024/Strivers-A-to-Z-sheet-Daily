@@ -27,27 +27,63 @@ Daily practice is a proven way to enhance your problem-solving skills and grasp 
 
 Check out my [Progress Log](Progress%20Log/Yashwanth/ProgressLog.md) to see my daily progress and the problems I've been working on.
 
+## How to Contribute 🤝
 
-## Contributions and Discussions 💬
+1. **Fork this Repository:**
+   - Click the "Fork" button in the top right corner of this repository to create your own copy.
 
-I welcome contributions, suggestions, and discussions. If you have any feedback, want to collaborate, or just chat about coding, feel free to reach out.
+2. **Clone the Forked Repository:**
+   - Clone the repository to your local machine using the following command:
+     ```bash
+     git clone https://github.com/Team-Projects-2024/Strivers-SDE-sheet-Daily.git
+     ```
 
-Happy coding! 
+3. **Create a Branch:**
+   - Create a new branch with your name to work on your changes:
+     ```bash
+     git checkout -b your-name-branch
+     ```
+
+4. **Start Coding:**
+   - Make your changes, add features, or fix bugs in your branch.
+
+5. **Commit and Push:**
+   - Commit your changes and push them to your forked repository:
+     ```bash
+     git add .
+     git commit -m "Your commit message"
+     git push origin your-name-branch
+     ```
+
+6. **Create a Pull Request:**
+   - Visit your forked repository on GitHub.
+   - Click the "New Pull Request" button.
+   - Set the base repository to the original repository and the base branch to the main/master branch.
+   - Set the head repository to your fork and the compare branch to your-name-branch.
+   - Click "Create Pull Request."
+
+## Contribution Guidelines
+
+- Ensure your code follows the project's coding standards.
+- Include relevant documentation for your changes.
+- Test your changes thoroughly.
+
+Thank you for contributing to [Project Name]! 🚀
+
 
 ## Contributors 💬
 
 Contributors can contribute to this repo by following Striver's SDE sheet and push their solution for respective problems in the proper folders according to the Topics.
 
-####Active contributors :
+### Active contributors :
 - [Yashwanth B M](https://github.com/yashwanth-gh)
 - [Achyuth](https://github.com/achyuth-k-t)
-- [Manoj C]
-- [Shreyas G S]
+- [Manoj C](https://github.com/532manojc)
+- [Shreyas G S](https://github.com/ShreySGS)
 
 ## Connect with Me 📫
 
 If you have any questions, need assistance, or want to join me in this learning journey, please feel free to get in touch. You can connect with me here:
-- Email: [yashwanthbm36@gmail.com](mailto:yashwanthbm362002@gmail.com)
 - LinkedIn: [Yashwanth B M](https://www.linkedin.com/in/yashwanth-b-m-4a4a09227)
 - Twitter: [@yashwanthbm36](https://twitter.com/yashwanthbm36?t=XJqJ9__RXp2C01zUhrDtvw&s=09)
 
