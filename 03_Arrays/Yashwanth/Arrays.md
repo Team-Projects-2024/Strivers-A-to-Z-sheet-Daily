@@ -29,3 +29,9 @@
 - [x] Longest Consecutive Sequence in an array
 - [x] Set Matrix Zeros
 - [x] Rotate Matrix by 90 degrees
+
+## Arrays(Hard)
+- [x] Pascal's Triangle
+- [x] Majority Element (n/3 times)
+- [x] 3-Sum Problem
+- [x] 4-Sum Problem
